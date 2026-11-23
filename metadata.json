@@ -1,0 +1,6 @@
+{
+  "name": "Yadah Mobile Music",
+  "description": "Mobile music experience with dynamic theme engine, tactile waveform scrubber, and album views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
